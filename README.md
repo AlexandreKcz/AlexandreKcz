@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexandreKcz
 - 👀 I’m interested in Game Developments
-- 🌱 I’m currently learning C# Events
+- 🌱 I’m currently learning C# Events & NodeJS
 - 💞️ I’m looking to collaborate on any small games projects
 - 📫 How to reach me ...
 
